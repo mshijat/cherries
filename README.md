@@ -1,5 +1,4 @@
 # Group Project
----
 ## Important links
 * [Kaggle Compeition](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction/)
 ## To do list
