@@ -1,1 +1,1 @@
-# Corona Virus 1, Group Project 0 ☠️
+# Corona Virus 1,  Group Project 0 ☠️
